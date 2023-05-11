@@ -1,0 +1,1 @@
+legal_entity,counter_party,tier,max(rating by counterparty),sum(value where status=ARAP),sum(value where status=ACCR)
